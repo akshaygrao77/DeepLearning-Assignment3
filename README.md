@@ -24,7 +24,7 @@ positional arguments are provided in the colab note book execute them seperately
   # Run all cells in Assignment_3_partA_without attention.ipynb to get outputs(until last before two cells output) and ignore last two cells (cmd args)
   **we will  get all results of Q5 to Q6 (Q6 code connectivity code is written in seperate block with proper headers execute it after getting the trained RNN_model)
   seperate functions written for heatmaps
-  # Q_8 output Execution using google colab (Assignment_3_partB_with attention.ipynb )
-  GPT2_finetune.ipynb is code for 8th question --- execute it and see the output also commented more in the report
+  # Q_8 output Execution using google colab (GPT2_finetune.ipynb )
+  # GPT2_finetune.ipynb is code for 8th question --- execute it and see the output also commented more in the report
   
   
