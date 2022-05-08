@@ -1,5 +1,5 @@
 # DeepLearning-Assignment3
-# ALL OUTPUT CSV FILES are in the folder predictions_attention and vanilla predictions
+# ALL OUTPUT CSV FILES are in the folder predictions_attention and  predictions_vanilla
 # Part A instructions  
 **Enable GPU run Environment for faster runs**
 # Output Execution using command lines and CMD (download from google colab part_a.py)
